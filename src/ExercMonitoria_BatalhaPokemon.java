@@ -12,7 +12,6 @@ No main, crie 2 pokémons, faça um atacar o outro até a vida acabar.
 
 */
 
-import java.util.Random;
 
 		public class ExercMonitoria_BatalhaPokemon {
 
