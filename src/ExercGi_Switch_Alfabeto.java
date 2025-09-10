@@ -19,7 +19,7 @@ public class ExercGi_Switch_Alfabeto {
 			Scanner scanner = new Scanner(System.in);
 			
 
-	        System.out.println("Digite uma letra de A a Z para receber uma palavra: ");
+	        System.out.print("\nDigite uma letra de A a Z para receber uma palavra: ");
 	        letra = scanner.nextLine().toUpperCase(); // Converte a entrada para maiúscula para a verificação
 
 	        switch (letra) {
@@ -90,7 +90,7 @@ public class ExercGi_Switch_Alfabeto {
 	                palavra = "Vitória";
 	                break;
 	            case "W":
-	                palavra = "Wally, a baleia";
+	                palavra = "Wi-Fi";
 	                break;
 	            case "X":
 	                palavra = "Xuxa";
@@ -107,7 +107,7 @@ public class ExercGi_Switch_Alfabeto {
 	        }
 
 	        
-	        System.out.println("A letra " + letra +  " é de " + palavra);
+	        System.out.println("\nA letra " + letra +  " é de " + palavra);
 
 	        
 	        scanner.close();
