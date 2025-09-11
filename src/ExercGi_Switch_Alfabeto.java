@@ -3,7 +3,7 @@
  * que o usuário digitasse uma letra e o sistema devolvesse uma palavra que
  * iniciasse com essa letra, USANDO O MÉTODO SWITCH.
  * Para o alfabeto, me inspirei no alfabeto da Xuxa.
- * 
+ 
  * */
 
 import java.util.Scanner;
